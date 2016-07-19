@@ -1,0 +1,4 @@
+[submodule "nodemcu-httpd"]
+	path = nodemcu-httpd
+	url = https://github.com/dimsumlabs/nodemcu-httpd
+	branch = lights
